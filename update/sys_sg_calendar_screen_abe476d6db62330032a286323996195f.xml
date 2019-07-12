@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen">
+    <sys_sg_calendar_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Travel Order</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="edit">57e47a16db62330032a286323996193d</icon>
+        <name>Travel Order</name>
+        <order>10</order>
+        <parent>b954fa16db62330032a28632399619fd</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_calendar_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-12 10:22:14</sys_created_on>
+        <sys_id>abe476d6db62330032a286323996195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Travel Order</sys_name>
+        <sys_package display_value="Voyage" source="x_315065_voyage">8804b256db62330032a2863239961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voyage">8804b256db62330032a2863239961917</sys_scope>
+        <sys_update_name>sys_sg_calendar_screen_abe476d6db62330032a286323996195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-12 10:22:14</sys_updated_on>
+    </sys_sg_calendar_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=abe476d6db62330032a286323996195f"/>
+</record_update>
