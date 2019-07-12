@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Travel request">da3d325edb62330032a28632399619b1</data_item>
+        <dependency_fields>assigned_to,comments,assignment_group,description</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":15},"CellId":"assigned_to"}],"Margin":{}},{"Type":"Text","Margin":{"Top":11},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"comments"},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E3","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${assignment_group}"},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"assignment_group"}],"Margin":{"Top":11}},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E4","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${description}"},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"description"}]},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E5","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13}},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"}},{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E6","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","studio_template_field_id":"E6","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13}}]}],"studio_card_id":"5579ac9923412300a8ed7f4fc7bf6579"}</item_view_json>
+        <name>New Request item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-12 11:15:02</sys_created_on>
+        <sys_id>2541c752dba2330032a286323996199b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New Request item view</sys_name>
+        <sys_package display_value="Voyage" source="x_315065_voyage">8804b256db62330032a2863239961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voyage">8804b256db62330032a2863239961917</sys_scope>
+        <sys_update_name>sys_sg_item_view_2541c752dba2330032a286323996199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-12 13:24:59</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=2541c752dba2330032a286323996199b"/>
+</record_update>

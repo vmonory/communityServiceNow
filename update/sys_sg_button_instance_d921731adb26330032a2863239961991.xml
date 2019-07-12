@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Submit_1">8022abd6dbe2330032a2863239961900</button>
+        <description/>
+        <field_name/>
+        <label>Closed Complete</label>
+        <location>top</location>
+        <name>teste</name>
+        <order>1</order>
+        <parent>dce8ebdedbe2330032a28632399619aa</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-12 14:44:10</sys_created_on>
+        <sys_id>d921731adb26330032a2863239961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teste</sys_name>
+        <sys_package display_value="Voyage" source="x_315065_voyage">8804b256db62330032a2863239961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voyage">8804b256db62330032a2863239961917</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d921731adb26330032a2863239961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-12 14:47:12</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d921731adb26330032a2863239961991"/>
+</record_update>

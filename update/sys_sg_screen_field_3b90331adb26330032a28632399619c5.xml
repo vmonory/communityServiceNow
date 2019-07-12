@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>comments_and_work_notes</data_item_field_name>
+        <hidden>false</hidden>
+        <order>40</order>
+        <screen display_value="Details">dce8ebdedbe2330032a28632399619aa</screen>
+        <screen_data_item_table>sc_request</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-12 14:41:53</sys_created_on>
+        <sys_id>3b90331adb26330032a28632399619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments_and_work_notes</sys_name>
+        <sys_package display_value="Voyage" source="x_315065_voyage">8804b256db62330032a2863239961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Voyage">8804b256db62330032a2863239961917</sys_scope>
+        <sys_update_name>sys_sg_screen_field_3b90331adb26330032a28632399619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-12 14:41:53</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-07-12 15:43:11</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-12 11:22:09</sys_created_on>
+        <sys_id>39e20792dba2330032a2863239961919</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>cQ_daIppinI:APA91bGEux0yKyD2TwZxRtqRsYv_y5w562wJ32HSfvRTOYuXZc_IcCyolbC0uahVe7iqe28JVT6ryD49TygmpPNTzkOeM6LVCbeCAoDSLnq5ld35hDn9fE96D3oZeRuYxs4DkPPD5oln</sys_name>
+        <sys_package display_value="Voyage" source="x_315065_voyage">8804b256db62330032a2863239961917</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Voyage">8804b256db62330032a2863239961917</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_39e20792dba2330032a2863239961919</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-12 15:43:11</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>cQ_daIppinI:APA91bGEux0yKyD2TwZxRtqRsYv_y5w562wJ32HSfvRTOYuXZc_IcCyolbC0uahVe7iqe28JVT6ryD49TygmpPNTzkOeM6LVCbeCAoDSLnq5ld35hDn9fE96D3oZeRuYxs4DkPPD5oln</token>
+    </sys_push_notif_app_install>
+</record_update>
